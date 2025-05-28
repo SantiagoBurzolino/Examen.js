@@ -52,3 +52,5 @@ console.log(alumnosMayores);
 const nombresMayusculas = alumnos.map((alumno) => alumno.nombre.toUpperCase());
 
 console.log(nombresMayusculas);
+
+.
